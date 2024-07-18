@@ -1,0 +1,21 @@
+.Layout {
+  height: 100%;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-rows: 25% auto 5%;
+  grid-template-columns: 5fr;
+  border: 1px solid;
+}
+
+header,
+footer {
+  grid-column: span 2;
+}
+
+header {
+  z-index: 500000;
+}
+
+main {
+  overflow: auto;
+}

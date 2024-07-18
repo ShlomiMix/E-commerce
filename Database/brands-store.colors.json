@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6630b5874ec2d230d2f9ca15"
+  },
+  "hexCode": "#000000",
+  "name": "Black"
+},
+{
+  "_id": {
+    "$oid": "6630b5914ec2d230d2f9ca17"
+  },
+  "hexCode": "#ffffff",
+  "name": "White"
+},
+{
+  "_id": {
+    "$oid": "6630b59a4ec2d230d2f9ca19"
+  },
+  "hexCode": "#808080",
+  "name": "Gray"
+},
+{
+  "_id": {
+    "$oid": "6630b5af4ec2d230d2f9ca1b"
+  },
+  "hexCode": "#ffff00",
+  "name": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "6630b5ba4ec2d230d2f9ca1d"
+  },
+  "hexCode": "#a52a2a",
+  "name": "Brown"
+},
+{
+  "_id": {
+    "$oid": "6630b5f64ec2d230d2f9ca20"
+  },
+  "hexCode": "#ff0000",
+  "name": "Red"
+},
+{
+  "_id": {
+    "$oid": "663b89895272173c0b8b7736"
+  },
+  "hexCode": "#191970",
+  "name": "Midnight Blue"
+},
+{
+  "_id": {
+    "$oid": "663b8f1f5272173c0b8b7741"
+  },
+  "hexCode": "#FF4500",
+  "name": "Orange Red"
+}]

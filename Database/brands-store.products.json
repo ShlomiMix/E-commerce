@@ -1,0 +1,359 @@
+[{
+  "_id": {
+    "$oid": "665c74268fa4828d58cf6936"
+  },
+  "companyId": {
+    "$oid": "6630b6164ec2d230d2f9ca25"
+  },
+  "name": "Adidas boost++++",
+  "description": "Adidas boost+",
+  "price": 500,
+  "discount": 10,
+  "categoryId": {
+    "$oid": "663b7d2d5272173c0b8b7715"
+  },
+  "subCategoryId": {
+    "$oid": "663a4504db3c8d554de899ed"
+  },
+  "audienceId": {
+    "$oid": "6630b69c4ec2d230d2f9ca30"
+  },
+  "imageNames": [
+    "b703f255-71ef-4dca-830f-641a6507f46f.jpg",
+    "78f38fac-e334-4cee-859b-3aea04e33ea5.jpg"
+  ],
+  "__t": "Shoe",
+  "stock": [
+    {
+      "color": {
+        "$oid": "6630b5874ec2d230d2f9ca15"
+      },
+      "size": {
+        "$oid": "6630c7594ec2d230d2f9ca7b"
+      },
+      "quantity": 13,
+      "_id": {
+        "$oid": "665c74268fa4828d58cf6937"
+      }
+    },
+    {
+      "color": {
+        "$oid": "663b8f1f5272173c0b8b7741"
+      },
+      "size": {
+        "$oid": "6630c72a4ec2d230d2f9ca71"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "665c74268fa4828d58cf6938"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665c75fba5c679cce1f2d18c"
+  },
+  "companyId": {
+    "$oid": "6630b6594ec2d230d2f9ca2b"
+  },
+  "name": "Floral star chevron",
+  "description": "Floral star chevron",
+  "price": 500,
+  "discount": 80,
+  "categoryId": {
+    "$oid": "664f0d02a964d80e279bab26"
+  },
+  "subCategoryId": {
+    "$oid": "663a4563db3c8d554de899f7"
+  },
+  "audienceId": {
+    "$oid": "6630b68c4ec2d230d2f9ca2e"
+  },
+  "imageNames": [
+    "86a81d8a-5615-4ccb-8c85-7abb3192f7cb.webp",
+    "6329d316-9704-4524-b19b-b2a513bfdf35.webp"
+  ],
+  "__t": "Cloth",
+  "stock": [
+    {
+      "color": {
+        "$oid": "6630b5874ec2d230d2f9ca15"
+      },
+      "size": {
+        "$oid": "6630c4994ec2d230d2f9ca45"
+      },
+      "quantity": 15,
+      "_id": {
+        "$oid": "666150728b7a530ea201f7a2"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6630b5914ec2d230d2f9ca17"
+      },
+      "size": {
+        "$oid": "6630c4a24ec2d230d2f9ca47"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "666150728b7a530ea201f7a3"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6630b59a4ec2d230d2f9ca19"
+      },
+      "size": {
+        "$oid": "6630c4924ec2d230d2f9ca43"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "666150728b7a530ea201f7a4"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6630b5914ec2d230d2f9ca17"
+      },
+      "size": {
+        "$oid": "6630c4924ec2d230d2f9ca43"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "666150728b7a530ea201f7a5"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665dd7d2e6fc6c9691d509fb"
+  },
+  "companyId": {
+    "$oid": "6630b62c4ec2d230d2f9ca29"
+  },
+  "name": "Reebok royal",
+  "description": "Reebok royal",
+  "price": 450,
+  "discount": 50,
+  "categoryId": {
+    "$oid": "663b7d2d5272173c0b8b7715"
+  },
+  "subCategoryId": {
+    "$oid": "663a4579db3c8d554de899f9"
+  },
+  "audienceId": {
+    "$oid": "6630b69c4ec2d230d2f9ca30"
+  },
+  "imageNames": [
+    "912991a1-b070-44b7-9bcf-ddcd2eb802c4.jpg",
+    "841ec16b-f309-47d9-8ef7-5f46a8b997d9.jpg"
+  ],
+  "__t": "Shoe",
+  "stock": [
+    {
+      "color": {
+        "$oid": "6630b5874ec2d230d2f9ca15"
+      },
+      "size": {
+        "$oid": "6630c6fc4ec2d230d2f9ca65"
+      },
+      "quantity": 45,
+      "_id": {
+        "$oid": "665dd7d2e6fc6c9691d509fc"
+      }
+    },
+    {
+      "color": {
+        "$oid": "663b89895272173c0b8b7736"
+      },
+      "size": {
+        "$oid": "6630c7044ec2d230d2f9ca67"
+      },
+      "quantity": 15,
+      "_id": {
+        "$oid": "665dd7d2e6fc6c9691d509fd"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665ddbbfe6fc6c9691d50a65"
+  },
+  "companyId": {
+    "$oid": "6630b6164ec2d230d2f9ca25"
+  },
+  "name": "Adidas Shirt",
+  "description": "Adidas Shirt",
+  "price": 350,
+  "discount": 40,
+  "categoryId": {
+    "$oid": "664f0d02a964d80e279bab26"
+  },
+  "subCategoryId": {
+    "$oid": "663a454ddb3c8d554de899f3"
+  },
+  "audienceId": {
+    "$oid": "6630b69c4ec2d230d2f9ca30"
+  },
+  "imageNames": [
+    "ac7cfd34-63a3-47b3-8cfa-c21460b243fd.jpg",
+    "5159bf91-6ebb-46bc-a665-5d656fce6884.webp"
+  ],
+  "__t": "Cloth",
+  "stock": [
+    {
+      "_id": {
+        "$oid": "668e8345d6cca0d770fa15ed"
+      },
+      "color": {
+        "$oid": "6630b5874ec2d230d2f9ca15"
+      },
+      "size": {
+        "$oid": "6630c4994ec2d230d2f9ca45"
+      },
+      "quantity": 0
+    },
+    {
+      "_id": {
+        "$oid": "668e8345d6cca0d770fa15ee"
+      },
+      "color": {
+        "$oid": "6630b5914ec2d230d2f9ca17"
+      },
+      "size": {
+        "$oid": "6630c4b44ec2d230d2f9ca4b"
+      },
+      "quantity": 5
+    },
+    {
+      "_id": {
+        "$oid": "668e8345d6cca0d770fa15ef"
+      },
+      "color": {
+        "$oid": "6630b5874ec2d230d2f9ca15"
+      },
+      "size": {
+        "$oid": "6630c4874ec2d230d2f9ca41"
+      },
+      "quantity": 10
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6661553f8b7a530ea201f9dc"
+  },
+  "companyId": {
+    "$oid": "6630b61f4ec2d230d2f9ca27"
+  },
+  "name": "Nike Air Zoom TR 1",
+  "description": "Nike Air Zoom TR 1 running shoes",
+  "price": 1000,
+  "discount": 10,
+  "categoryId": {
+    "$oid": "663b7d2d5272173c0b8b7715"
+  },
+  "subCategoryId": {
+    "$oid": "663a451bdb3c8d554de899ef"
+  },
+  "audienceId": {
+    "$oid": "6630b69c4ec2d230d2f9ca30"
+  },
+  "__t": "Shoe",
+  "stock": [
+    {
+      "_id": {
+        "$oid": "6683e7336924b9863852faa7"
+      },
+      "color": {
+        "$oid": "6630b5874ec2d230d2f9ca15"
+      },
+      "size": {
+        "$oid": "6630c70c4ec2d230d2f9ca69"
+      },
+      "quantity": 10
+    },
+    {
+      "_id": {
+        "$oid": "6683e7336924b9863852faa8"
+      },
+      "color": {
+        "$oid": "6630b5914ec2d230d2f9ca17"
+      },
+      "size": {
+        "$oid": "6630c6fc4ec2d230d2f9ca65"
+      },
+      "quantity": 10
+    },
+    {
+      "_id": {
+        "$oid": "6683e7336924b9863852faa9"
+      },
+      "color": {
+        "$oid": "6630b5874ec2d230d2f9ca15"
+      },
+      "size": {
+        "$oid": "6630c70c4ec2d230d2f9ca69"
+      },
+      "quantity": 5
+    },
+    {
+      "_id": {
+        "$oid": "6683e7336924b9863852faaa"
+      },
+      "color": {
+        "$oid": "6630b5914ec2d230d2f9ca17"
+      },
+      "size": {
+        "$oid": "6630c7044ec2d230d2f9ca67"
+      },
+      "quantity": 15
+    }
+  ],
+  "imageNames": [
+    "2b09c175-c170-4ef0-8353-7b32e7d55cb6.png",
+    "62c3de63-59c0-4c9a-b98b-b8d64d6152b4.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668e7cfad6cca0d770fa106e"
+  },
+  "companyId": {
+    "$oid": "6630b61f4ec2d230d2f9ca27"
+  },
+  "name": "Floral star chevron",
+  "description": "dafasdfgsdgasdgsgsadgdsgsdgd",
+  "price": 50,
+  "discount": 10,
+  "categoryId": {
+    "$oid": "663b7d2d5272173c0b8b7715"
+  },
+  "subCategoryId": {
+    "$oid": "663a4579db3c8d554de899f9"
+  },
+  "audienceId": {
+    "$oid": "6630b69c4ec2d230d2f9ca30"
+  },
+  "imageNames": [
+    "9f25cec4-e5eb-4b19-b259-540b115bd2fb.png"
+  ],
+  "__t": "Shoe",
+  "stock": [
+    {
+      "_id": {
+        "$oid": "668e7cfad6cca0d770fa106f"
+      },
+      "color": {
+        "$oid": "6630b5914ec2d230d2f9ca17"
+      },
+      "size": {
+        "$oid": "6630c70c4ec2d230d2f9ca69"
+      },
+      "quantity": 15
+    }
+  ]
+}]

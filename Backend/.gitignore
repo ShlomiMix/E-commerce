@@ -1,0 +1,13 @@
+node_modules
+
+.env
+
+BrandsStore.postman_collection.json
+
+erros.log
+
+package-lock.json
+
+errors.log
+
+package.json

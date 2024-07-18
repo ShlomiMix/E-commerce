@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "663a4aa25f9abee9d4c8de39"
+  },
+  "name": "Accessories",
+  "subCategories": [
+    {
+      "$oid": "663a4a5c5f9abee9d4c8de33"
+    },
+    {
+      "$oid": "663a4a695f9abee9d4c8de35"
+    },
+    {
+      "$oid": "6662c07da9e30488352d34e1"
+    }
+  ],
+  "imageName": "cf2f2088-8a44-4c62-85ab-3450d565a1e6.webp"
+},
+{
+  "_id": {
+    "$oid": "663b7d2d5272173c0b8b7715"
+  },
+  "name": "Footwear",
+  "subCategories": [
+    {
+      "$oid": "663a4504db3c8d554de899ed"
+    },
+    {
+      "$oid": "663a451bdb3c8d554de899ef"
+    },
+    {
+      "$oid": "663a4537db3c8d554de899f1"
+    },
+    {
+      "$oid": "663a4579db3c8d554de899f9"
+    }
+  ],
+  "imageName": "b591dc19-5a18-442f-83de-e3d70d128b93.jpg"
+},
+{
+  "_id": {
+    "$oid": "664f0d02a964d80e279bab26"
+  },
+  "name": "Clothing",
+  "subCategories": [
+    {
+      "$oid": "663a454ddb3c8d554de899f3"
+    },
+    {
+      "$oid": "663a4556db3c8d554de899f5"
+    },
+    {
+      "$oid": "663a4563db3c8d554de899f7"
+    }
+  ],
+  "imageName": "391a51eb-9e72-4b8c-ba2a-494d3206fad3.jpg"
+}]

@@ -1,0 +1,186 @@
+[{
+  "_id": {
+    "$oid": "6686e3388c2e139550bc030d"
+  },
+  "customer": {
+    "userId": {
+      "$oid": "66841cc16924b9863853085b"
+    },
+    "email": "shlomi10000@gmail.com",
+    "firstName": "shlomi",
+    "lastName": "cohen"
+  },
+  "shippingDetails": {
+    "address": "Rimalt 30",
+    "apartment": 122,
+    "city": "Ra'anana",
+    "country": "Israel",
+    "state": "Hamerkaz",
+    "postalCode": "054512",
+    "phone": "972-542533335"
+  },
+  "orderDetails": {
+    "shippingMethod": "standard",
+    "orderStatus": "Order placed",
+    "orderDate": "Thu Jul 04 2024 21:00:24 GMT+0300 (שעון ישראל (קיץ))",
+    "expectedDeliveryDate": "14"
+  },
+  "customerCard": {
+    "paymentMethod": "credit-card",
+    "cardNumber": "0545616516516516515",
+    "nameOnCard": "shlomi cohen",
+    "expirationDate": "07/2029",
+    "cvv": "530"
+  },
+  "items": [
+    {
+      "productId": "665ddbbfe6fc6c9691d50a65",
+      "name": "Adidas Shirt",
+      "color": "Black",
+      "size": "M",
+      "quantity": 1,
+      "price": 350,
+      "stockId": "668409706924b986385305f0",
+      "_id": {
+        "$oid": "6686e3388c2e139550bc030e"
+      }
+    }
+  ],
+  "transactionDetails": {
+    "subTotal": 350,
+    "taxes": 59.5,
+    "total": 419.5
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668a2efa1c42e0130e4d9910"
+  },
+  "customer": {
+    "email": "shlomi10000@gmail.com",
+    "firstName": "shlomi",
+    "lastName": "cohen"
+  },
+  "shippingDetails": {
+    "address": "Rimalt 30",
+    "apartment": 130,
+    "city": "Ra'anana",
+    "country": "Israel",
+    "state": "Hamerkaz",
+    "postalCode": "43740",
+    "phone": "972-542533335"
+  },
+  "orderDetails": {
+    "shippingMethod": "express",
+    "orderStatus": "Order placed",
+    "orderDate": "Sun Jul 07 2024 09:00:26 GMT+0300 (שעון ישראל (קיץ))",
+    "expectedDeliveryDate": "5"
+  },
+  "customerCard": {
+    "paymentMethod": "credit-card",
+    "cardNumber": "05645641541651",
+    "nameOnCard": "shlomi cohen",
+    "expirationDate": "07/2033",
+    "cvv": "550"
+  },
+  "items": [
+    {
+      "productId": "665dd7d2e6fc6c9691d509fb",
+      "name": "Reebok royal",
+      "color": "Black",
+      "size": "42",
+      "quantity": 4,
+      "price": 1800,
+      "stockId": "665dd7d2e6fc6c9691d509fc",
+      "_id": {
+        "$oid": "668a2efa1c42e0130e4d9911"
+      }
+    },
+    {
+      "productId": "665c74268fa4828d58cf6936",
+      "name": "Adidas boost++++",
+      "color": "Black",
+      "size": "29",
+      "quantity": 1,
+      "price": 500,
+      "stockId": "665c74268fa4828d58cf6937",
+      "_id": {
+        "$oid": "668a2efa1c42e0130e4d9912"
+      }
+    }
+  ],
+  "transactionDetails": {
+    "subTotal": 2300,
+    "taxes": 391,
+    "total": 2721
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668a66d77c3edbb2b8b6e6bd"
+  },
+  "customer": {
+    "userId": {
+      "$oid": "66841cc16924b9863853085b"
+    },
+    "email": "shlomi10000@gmail.com",
+    "firstName": "shlomi",
+    "lastName": "cohen"
+  },
+  "shippingDetails": {
+    "address": "Rimalt 30",
+    "apartment": 122,
+    "city": "Ra'anana",
+    "country": "Israel",
+    "state": "Hamerkaz",
+    "postalCode": "451215",
+    "phone": "972-542533335"
+  },
+  "orderDetails": {
+    "shippingMethod": "express",
+    "orderStatus": "Order placed",
+    "orderDate": "Sun Jul 07 2024 12:58:47 GMT+0300 (שעון ישראל (קיץ))",
+    "expectedDeliveryDate": "5"
+  },
+  "customerCard": {
+    "paymentMethod": "credit-card",
+    "cardNumber": "1654198461461464",
+    "nameOnCard": "shlomi cohen",
+    "expirationDate": "11/2033",
+    "cvv": "555"
+  },
+  "items": [
+    {
+      "productId": "665c74268fa4828d58cf6936",
+      "name": "Adidas boost++++",
+      "color": "Black",
+      "size": "29",
+      "quantity": 1,
+      "price": 500,
+      "stockId": "665c74268fa4828d58cf6937",
+      "_id": {
+        "$oid": "668a66d77c3edbb2b8b6e6be"
+      }
+    },
+    {
+      "productId": "665ddbbfe6fc6c9691d50a65",
+      "name": "Adidas Shirt",
+      "color": "Black",
+      "size": "M",
+      "quantity": 1,
+      "price": 350,
+      "stockId": "668409706924b986385305f0",
+      "_id": {
+        "$oid": "668a66d77c3edbb2b8b6e6bf"
+      }
+    }
+  ],
+  "transactionDetails": {
+    "subTotal": 850,
+    "taxes": 144.5,
+    "total": 1024.5
+  },
+  "__v": 0
+}]

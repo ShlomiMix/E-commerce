@@ -1,0 +1,35 @@
+.Menu {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding-top: 20px;
+  height: 100%;
+}
+
+
+.Menu > .active {
+  color: green;
+  font-weight: bold;
+  font-family: Arial;
+}
+
+
+div[role=menu] {
+    z-index: 500;
+}
+
+.category-images {
+  height: 100px;
+  width: 100px;
+}
+
+
+button {
+  color: black;
+}
+
+.font-light {
+  font-weight: 900;
+}
+
+

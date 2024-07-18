@@ -1,0 +1,19 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  html,
+body,
+#root {
+  margin: 0;
+  height: 100%;
+  background-image: linear-gradient(white);
+}
+
+.notyf {
+    margin-top: 80px;
+    z-index: 100000000000000000000000000000000000000;
+}
+

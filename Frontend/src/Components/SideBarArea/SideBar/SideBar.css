@@ -1,0 +1,23 @@
+.searchInputFilter {
+  background-color: white !important;
+  width: 235px;
+}
+
+.drawer {
+  height: 500px !important;
+}
+
+.SideBar .peer {
+  height: 40px;
+}
+
+.SideBar {
+  position: relative;
+}
+
+@media screen and (max-width: 760px) {
+  .searchInputFilter {
+    /* background-color: white !important; */
+    width: 100%;
+  }
+}
